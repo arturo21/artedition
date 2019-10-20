@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CKEditor 4
 ==========
 
@@ -37,3 +38,6 @@ To test your installation, just call the following page at your website:
 For example:
 
 	http://www.example.com/ckeditor/samples/index.html
+=======
+# artedition
+>>>>>>> f64f30d70495b72d985e7199071a141e2d72242a
